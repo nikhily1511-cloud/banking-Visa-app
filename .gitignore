@@ -1,0 +1,15 @@
+# Build artifacts
+*.log
+*.load
+*.o
+build/
+dbb-build/
+
+# Temp and OS files
+*.tmp
+Thumbs.db
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
