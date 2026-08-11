@@ -1,1 +1,1 @@
-Balance program handles saving accounts 
+"Balance program handles checking accounts" 
