@@ -1,1 +1,1 @@
-Balance program handles savings accounts 
+Balance program handles checking accounts 
