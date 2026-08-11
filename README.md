@@ -1,1 +1,2 @@
-balance program handles saving accounts and loan 
+balance program handles saving accounts, loan and checking accounts as well
+
